@@ -1,0 +1,5 @@
+variables: una cajita, dentro de la memoria de la computadora, donde puedo guardar informacion.  
+Strings: una secuencia de caracteres alfanumericos.
+Funciones: metodos que permiten realizar areas específicas y retornan o no una respuesta. Se suele utilizar para evitar repetir código.
+Declaraciones 'if': bloque de codigo que se ejecutará si se cumple una determinada condición.
+Valores booleanos: tipo de variable que me indica si una condición es verdadera (true) o falsa (false)
