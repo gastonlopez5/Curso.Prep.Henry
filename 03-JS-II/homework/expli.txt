@@ -1,0 +1,7 @@
+El bucle for se utiliza para realizar la misma tarea u operacion una cantidad definida de veces.
+
+El operador AND (&&) se utiliza cuando necesitas que se cumplan 2 condiciones para que se ejecute una parte del código.
+
+El operador OR (||) se utiliza cuando necesitas que solo una condicion se cumpla para que se ejecute una parte del codigo.
+
+El operador negacion (!) se usa para decir lo opuesto de una frase.
